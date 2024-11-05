@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\bin\Debug\net8.0\ZadKnigi.exe
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\bin\Debug\net8.0\ZadKnigi.deps.json
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\bin\Debug\net8.0\ZadKnigi.runtimeconfig.json
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\bin\Debug\net8.0\ZadKnigi.dll
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\bin\Debug\net8.0\ZadKnigi.pdb
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.AssemblyInfo.cs
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.dll
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\refint\ZadKnigi.dll
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.pdb
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ZadKnigi.genruntimeconfig.cache
+C:\Users\encho\source\repos\Domashna4\ZadKnigi\obj\Debug\net8.0\ref\ZadKnigi.dll
